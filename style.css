@@ -1,0 +1,99 @@
+.bg-blue{
+    background:dodgerblue;
+    color:white;
+    padding-top: 60px;
+}
+.bg-black{
+    background:black;
+    color:white;
+    text-align: left;
+    padding-left:60px;
+}
+.bg-white{
+    background:whitesmoke;
+    color:black;
+    text-align: center;
+}
+
+.card-white{
+    background:white;
+    padding:30px;
+    box-shadow:1px 1px 2px #e7e7e7;
+    border-radius:4px;
+    margin:50px 20px;
+}
+.jobs{
+    padding-top:78px;
+}
+
+.navbar {
+    background: dodgerblue;
+    color:white;
+    text-align: justify;
+    vertical-align: center;
+}
+h3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img{
+    vertical-align:bottom;
+    align:right;
+    
+}
+.justify{
+    text-align: justify;
+    width:40%;
+}
+
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */;
+	padding-top: 25px;
+    margin-top: -55px;
+    margin-right: -20px;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.left-align{
+    text-align: left;
+    padding-left:40px;
+
+}
+.fa-apple{
+    font-size: 20px;
+    text-align: center;
+    padding-top:40px;
+    padding-left:80px;
+    padding-right:0;
+}
+.fa-android{
+    font-size: 20px;
+    text-align: center;
+    padding-top:40px;
+    padding-left:80px;
+    padding-right:0;
+}
+.fb{
+    font-size: 20px;
+    text-align: left;
+    padding-top:40px;
+    padding-left:80px;
+    padding-right:5px;
+}
+.bird{
+    font-size: 20px;
+    text-align: center;
+    padding-top:40px;
+    padding-left:20px;
+    padding-right:0;
+}
+p{
+    margin-left:80px;
+}
+
